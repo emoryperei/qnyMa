@@ -1,0 +1,2 @@
+# qnyMa
+customer publishing repository
